@@ -1,6 +1,6 @@
 # Forever Young Records
 <p>A website redesign concept for a course project.</p>
-<p>HTML, CSS, JavaScript, PHP, SQL Database</p>
+<p>HTML, CSS, JavaScript, PHP, SQL, mySQL Database</p>
 
 <h2>Developed Features</h2> 
 <ol>
